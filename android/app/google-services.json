@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "907713414192",
+    "project_id": "moofriend-98464",
+    "storage_bucket": "moofriend-98464.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907713414192:android:e4993ff84e9cd88de199f5",
+        "android_client_info": {
+          "package_name": "com.flutterthailand.moofriend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907713414192-t6a7kqpvlaqfidjsbinanlgavt50g70b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIHLguxNLO56fyp5KscFd_kFL8cEIgF0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907713414192-t6a7kqpvlaqfidjsbinanlgavt50g70b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
